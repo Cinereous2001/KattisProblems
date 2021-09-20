@@ -1,2 +1,0 @@
-This txt file demosntrates I successfully uploaded a text file
-from my local repository to remote repository using git bash.
